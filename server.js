@@ -19,7 +19,7 @@ const sess = {
     secret: 'super secret secret',
     cookie: {
         httpOnly: true,
-        secure: true,
+        secure: false,
         sameSite: 'strict',
     },
     resave: false,
