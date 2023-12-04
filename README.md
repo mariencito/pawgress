@@ -50,8 +50,7 @@ Login:
 Profile:
 <img src="public/images/Profile SS.png" alt="Profile screenshot">
 
-Feed: 
-<img src="public/images/Feed-SS.png" alt="Feed page screenshot">
+
 
 
 ## Technologies Used
@@ -84,4 +83,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Join us on this journey to foster positive behavior in our furry friends. Together, we can create a community of well-behaved dogs and happy dog owners.
 
-(This was a group project that was done during a bootcamp. It has been edited and changed to my personal liking. I cannot take ALL of the credit for this website.)
+(This was a group project that was done during a bootcamp. It has been edited and changed to my personal liking. I cannot take ALL of the credit for this website. We worked together on it as a group but once we had it graded, I decided to change a couple things myself.)
